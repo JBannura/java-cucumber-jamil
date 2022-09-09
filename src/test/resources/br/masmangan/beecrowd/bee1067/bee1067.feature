@@ -20,6 +20,7 @@ Feature: Bee1067 CLI
 3
 5
 7
+
 """
 
   Scenario: Run program with input
@@ -41,6 +42,7 @@ Feature: Bee1067 CLI
 15
 17
 19
+
 """
 
   Scenario: Run program with input
@@ -53,4 +55,5 @@ Feature: Bee1067 CLI
     Then output should be
 """
 1
+
 """
